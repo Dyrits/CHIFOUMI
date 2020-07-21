@@ -33,7 +33,7 @@ Proposition de maquette pour comprendre l'enchaînement attendu :
 
 > Plus de détails sont disponibles dans les fichiers au format PDF correspondant à chaque énoncé.
 
-### Technologie principale
+### Technologies principales
 - Java
 - Java EE
 
