@@ -4,7 +4,7 @@
 
 ### Cursus
 ENI | Le développement Web côté serveur – BackEnd avec Java Enterprise Edition (JEE)  
-~ [Module 3 - Les JSP](https://github.com/Dyrits/RECHERCHER-UN-NOMBRE-TIRE-AU-SORT/tree/master/Module%2002%20-%20Enonc%C3%A9s%20TP)  
+~ [Module 3 - Les JSP](https://github.com/Dyrits/RECHERCHER-UN-NOMBRE-TIRE-AU-SORT/tree/master/Module%2003%20-%20Enonc%C3%A9s%20TP)  
 
 ### Énoncés (par l'ENI)
 
