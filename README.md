@@ -31,6 +31,19 @@ Proposition de maquette pour comprendre l'enchaînement attendu :
 
 </details>
 
+
+<details markdown="block">
+<summary>Version 2</summary>  
+
+Mettre en place une gestion avancée des erreurs possibles sur votre servlet et votre JSP.
+Par exemple :
+- Provoquer une exception de type NumberFormatException en essayant de convertir en entier le choix de l'utilisateur (par exemple le texte "CHI").
+- Provoquer une exception de type NullPointerException en appelant la méthode "forward(...)" du RequestDispatcher sur une page qui n'existe pas.
+Ne pas hésiter à altérer le code pour provoquer de telles erreurs.
+
+</details>
+
+
 > Plus de détails sont disponibles dans les fichiers au format PDF correspondant à chaque énoncé.
 
 ### Technologies principales
@@ -46,10 +59,16 @@ Ce projet a été construit à partir de zéro en suivant des instructions spéc
 L'application a été renommée "Chifoumi".
 
 </details>  
+<details markdown="block">
+<summary>Version 2</summary>  
+
+La version 2 ne sera pas implémentée.
+
+</details>  
 
 ### Statut
 Version 1 - Terminée  
-Version 2 - A venir   
+Version 2 - Abandonnée
 
 #### Dernière mise à jour
 21/07/2020  
