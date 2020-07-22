@@ -39,6 +39,7 @@ Mettre en place une gestion avancée des erreurs possibles sur votre servlet et 
 Par exemple :
 - Provoquer une exception de type NumberFormatException en essayant de convertir en entier le choix de l'utilisateur (par exemple le texte "CHI").
 - Provoquer une exception de type NullPointerException en appelant la méthode "forward(...)" du RequestDispatcher sur une page qui n'existe pas.
+
 Ne pas hésiter à altérer le code pour provoquer de telles erreurs.
 
 </details>
