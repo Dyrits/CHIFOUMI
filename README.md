@@ -1,6 +1,6 @@
 # CHIFOUMI
 
-A rock-paper-scissors (Chifoumi) web app in Java EE, built for the ENI course "Le developpement Web cote serveur - BackEnd avec Java Enterprise Edition (JEE)" (Module 3 - JSP).
+A rock-paper-scissors (Chifoumi) web app in Java EE, built for the ENI course "Le développement Web côté serveur - BackEnd avec Java Enterprise Edition (JEE)" (Module 3 - JSP).
 
 ## About The Project
 
